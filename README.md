@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **blakep7/blakep7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey there! 👋
+I'm Blake Pearson, an enthusiastic computer engineering student at San Diego State University. Here's a little bit about me:
+
+- 📚 Studying Computer Engineering at San Diego State University.
+- 💡 Interests: Embedded Systems, IoT, DevSecOps, Remote Sensing Technology.
+- 🐱 I have 2 cats
+- 🤵‍♂️ [LinkedIn](https://www.linkedin.com/in/blake--pearson/)
