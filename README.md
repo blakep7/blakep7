@@ -19,5 +19,5 @@ I'm Blake Pearson, an enthusiastic computer engineering student at San Diego Sta
 - 💡 Interests: Embedded Systems, IoT, DevSecOps, Remote Sensing Technology.
 - 🐱 I have 2 cats
 - 🤵‍♂️ [LinkedIn](https://www.linkedin.com/in/blake--pearson/)
-- 📫 [Email me](mailto:blakepearson.contact@gmail.com)
+- 📫 blakepearson.contact@gmail.com
 
